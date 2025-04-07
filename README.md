@@ -18,7 +18,7 @@ Here are some of my notable repositories and contributions:
 ### 1. [views-stepshifter](https://github.com/views-platform/views-stepshifter)
 ####  A package that contains modeling procedure, evaluation, and forecasting using Darts.
 
-### 2. [views-pipeline-core](https://github.com/prio-data/views_pipeline)
+### 2. [views-pipeline-core](https://github.com/views-platform/views-pipeline-core)
 #### A comprehensive machine learning pipeline designed to produce monthly predictions of future violent conflict at both country and sub-country levels.
 
 ### 3. [views-evaluation](https://github.com/views-platform/views-evaluation)
