@@ -24,7 +24,7 @@ Here are some of my notable repositories and contributions:
 ### 3. [views-evaluation](https://github.com/views-platform/views-evaluation)
 #### A package that contains evaluation schemas and metrics to evaluate VIEWS models.
 
-### 4. [escwaapi](https://github.com/prio-data/escwaapi)
+### 4. [escwaapi](https://github.com/xiaolong0728/escwaapi)
 #### An improved ViEWS2-based API for retrieving predictions using the asynchronous structure.
 
 ## &#x270d; Get in Touch
